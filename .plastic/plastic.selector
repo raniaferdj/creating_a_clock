@@ -1,0 +1,4 @@
+repository "tests@adeline3000@cloud"
+  path "/"
+    br "/main"
+    co "/main"
