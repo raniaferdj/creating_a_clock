@@ -10,7 +10,7 @@ This Unity project contains a simple clock implementation using C# script. The c
 ## Result
 Watch the clock in action!:
 
-[![Clock Demo](/github_result/horloge_unity.gif)
+![Clock Demo](/github_result/horloge_unity.gif)
 
 
 ## Tutorial Reference
